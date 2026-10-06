@@ -1,0 +1,15 @@
+{
+    "name": "MoonforgedBannerCollection",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Caen007/MoonforgedBannerCollection",
+    "description": "A collection of handcrafted Moonforged banners featuring Valheim biomes, bosses, vendors and Hildir quest themes. Includes configurable build-menu support and indoor cloth behavior. Mac and Vulkan compatible.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2351",
+        "ValheimModding-Jotunn-2.30.2"
+    ],
+    "categories": [
+        "Building",
+        "Mods",
+        "Deep North Update"
+    ]
+}
